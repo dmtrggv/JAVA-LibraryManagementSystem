@@ -30,4 +30,4 @@ This project utilizes the following tools and libraries:
 ## How to Run the Application  
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/library-management.git
+   git clone https://github.com/your-username/JAVA-LibraryManagementSystem.git
